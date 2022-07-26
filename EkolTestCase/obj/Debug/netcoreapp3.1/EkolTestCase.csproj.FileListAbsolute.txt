@@ -1,0 +1,13 @@
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.csproj.AssemblyReference.cache
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.AssemblyInfoInputs.cache
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.AssemblyInfo.cs
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.csproj.CoreCompileInputs.cache
+/Users/metin/Projects/EkolTestCase/EkolTestCase/bin/Debug/netcoreapp3.1/EkolTestCase.deps.json
+/Users/metin/Projects/EkolTestCase/EkolTestCase/bin/Debug/netcoreapp3.1/EkolTestCase.runtimeconfig.json
+/Users/metin/Projects/EkolTestCase/EkolTestCase/bin/Debug/netcoreapp3.1/EkolTestCase.runtimeconfig.dev.json
+/Users/metin/Projects/EkolTestCase/EkolTestCase/bin/Debug/netcoreapp3.1/EkolTestCase.dll
+/Users/metin/Projects/EkolTestCase/EkolTestCase/bin/Debug/netcoreapp3.1/EkolTestCase.pdb
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.dll
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.pdb
+/Users/metin/Projects/EkolTestCase/EkolTestCase/obj/Debug/netcoreapp3.1/EkolTestCase.genruntimeconfig.cache
